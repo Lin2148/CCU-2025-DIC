@@ -24,8 +24,7 @@
 | --- | --- | --- | --- |
 | reset | I | 1 | Active-high asynchronous reset. |
 | clk | I | 1 | Clock signal. |
-| en | I | 1 | Assert when MATRIX_Q, MATRIX_K,
-and MATRIX_V are valid. |
+| en | I | 1 | Assert when MATRIX_Q, MATRIX_K,and MATRIX_V are valid. |
 | MATRIX_Q  | I | 4 | Query data (unsigned number).  |
 | MATRIX_K | I | 4 | Key data (unsigned number). |
 | MATRIX_V | I | 4 | Value data (unsigned number).  |
