@@ -10,7 +10,6 @@
     - 這兩個無號數output相乘
     - 最後6bit結果 (max case 7*7)
 
-![image.png](image.png)
 
 - 規格
     - Input: a[7:0], b[7:0]

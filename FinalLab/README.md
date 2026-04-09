@@ -33,8 +33,8 @@
     | DATA_OUT | O | 8 | output data |
 
 
-![IRdrop]("c:\Users\qq210\Desktop\DICLAB\FinalLab\irdrop.png")
+![IRdrop](irdrop.png)
 
-![IRdrop2]("c:\Users\qq210\Desktop\DICLAB\FinalLab\irdrop2.png")
+![IRdrop2](irdrop2.png")
 
-![final_lvs]("c:\Users\qq210\Desktop\DICLAB\FinalLab\final_lvs.png")
+![final_lvs](final_lvs.png)

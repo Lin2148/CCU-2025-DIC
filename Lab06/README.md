@@ -23,8 +23,7 @@
 
 | signal | direction | bit width | description |
 | --- | --- | --- | --- |
-| reset | I | 1 | Active-high asynchronous reset signal.
-When the reset signal is asserted, the design is asynchronously reset. |
+| reset | I | 1 | Active-high asynchronous reset signal.When the reset signal is asserted, the design is asynchronously reset. |
 | clk | I | 1 | Clock source. The design is synchronous design triggered at the positive edge of clk.  |
 | nt | I | 1 | New triangle indication. When the nt ignal is high, it indicates that three consecutive pairs of coordinate inputs for a triangle are available. Note that nt is active high only when the busy signal s low.  |
 | xi | I | 3 | The x-coordinate input for the triangle.  |
