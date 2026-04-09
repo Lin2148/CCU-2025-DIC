@@ -35,6 +35,6 @@
 
 ![IRdrop](irdrop.png)
 
-![IRdrop2](irdrop2.png")
+![IRdrop2](irdrop2.png)
 
 ![final_lvs](final_lvs.png)
